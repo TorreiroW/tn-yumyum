@@ -44,6 +44,12 @@
     - key: tags
       title: Tags
       type: chips
+    - key: time
+      title: Duration
+      type: string
+    - key: quantity
+      title: quantity
+      type: string
 
     - key: ingredients
       title: Ingredients
